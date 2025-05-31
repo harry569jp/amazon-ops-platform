@@ -1,0 +1,69 @@
+{
+  "dashboard": {
+    "title": "Amazon Dashboard",
+    "description": "Powerful tools to optimize your Amazon operations with real-time analytics and automated insights",
+    "usage": "Usage",
+    "runTool": "Run Tool",
+    "running": "Running...",
+    "export": "Export",
+    "close": "Close",
+    "tools": {
+      "ranking": {
+        "name": "Keyword Ranking Tool",
+        "description": "Track your product rankings across multiple keywords",
+        "features": {
+          "realTime": "Real-time ranking data",
+          "multiKeyword": "Multiple keyword tracking",
+          "competition": "Competition analysis",
+          "export": "Export reports"
+        }
+      },
+      "acos": {
+        "name": "ACOS Analyzer",
+        "description": "Identify and optimize high ACOS campaigns",
+        "features": {
+          "highAcos": "High ACOS detection",
+          "optimization": "Optimization suggestions",
+          "trends": "Performance trends",
+          "recommendations": "Auto recommendations"
+        }
+      },
+      "optimizer": {
+        "name": "Ad Optimizer",
+        "description": "Automated bid and budget optimization",
+        "features": {
+          "bidOptimization": "Smart bid optimization",
+          "budgetAllocation": "Budget allocation",
+          "performanceTracking": "Performance tracking",
+          "automation": "Automation rules"
+        }
+      }
+    },
+    "results": {
+      "title": "Analysis Results",
+      "keyword": "Keyword",
+      "position": "Position",
+      "volume": "Volume",
+      "competition": "Competition",
+      "campaign": "Campaign",
+      "spend": "Spend",
+      "sales": "Sales",
+      "status": "Status",
+      "totalKeywords": "Total Keywords",
+      "improvements": "Improvements",
+      "avgPosition": "Avg Position",
+      "totalSpend": "Total Spend",
+      "totalSales": "Total Sales",
+      "avgAcos": "Avg ACOS",
+      "potentialSavings": "Potential Savings",
+      "expectedIncrease": "Expected Increase",
+      "recommendations": "Recommendations"
+    },
+    "stats": {
+      "lastUpdate": "Last Update",
+      "activeTools": "Active Tools",
+      "reportsGenerated": "Reports Generated",
+      "avgImprovement": "Avg Improvement"
+    }
+  }
+}
