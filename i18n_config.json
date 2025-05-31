@@ -1,0 +1,226 @@
+{
+  "messages": {
+    "zh": {
+      "site": {
+        "title": "亚马逊运营助手",
+        "description": "专业的跨境电商运营工具平台"
+      },
+      "nav": {
+        "home": "首页",
+        "dashboard": "数据分析",
+        "tools": "工具集",
+        "aiAssistant": "AI助手",
+        "resources": "资料库",
+        "blog": "博客"
+      },
+      "auth": {
+        "login": {
+          "title": "登录",
+          "subtitle": "欢迎回来",
+          "submit": "登录",
+          "success": "登录成功！",
+          "switchText": "还没有账户？",
+          "switchButton": "立即注册"
+        },
+        "register": {
+          "title": "注册",
+          "subtitle": "创建您的账户",
+          "submit": "注册",
+          "success": "注册成功！",
+          "switchText": "已有账户？",
+          "switchButton": "立即登录"
+        },
+        "fields": {
+          "email": "邮箱地址",
+          "password": "密码",
+          "name": "姓名",
+          "confirmPassword": "确认密码"
+        },
+        "placeholders": {
+          "email": "请输入邮箱地址",
+          "password": "请输入密码",
+          "name": "请输入姓名",
+          "confirmPassword": "请再次输入密码"
+        },
+        "errors": {
+          "emailRequired": "请输入邮箱地址",
+          "emailInvalid": "邮箱格式不正确",
+          "passwordRequired": "请输入密码",
+          "passwordTooShort": "密码至少需要6位字符",
+          "nameRequired": "请输入姓名",
+          "passwordMismatch": "两次输入的密码不一致",
+          "submitFailed": "操作失败，请重试"
+        },
+        "loading": "处理中...",
+        "logout": "退出登录"
+      },
+      "home": {
+        "hero": {
+          "greeting": "你好，我是Harry",
+          "title": "专业的亚马逊运营专家",
+          "subtitle": "& 自动化工具开发者",
+          "description": "5年跨境电商经验，专注于Amazon PPC优化、数据分析和运营自动化。通过Python和AI技术，为卖家提供高效的运营解决方案。",
+          "cta": {
+            "explore": "探索工具",
+            "resources": "免费资源"
+          }
+        },
+        "personal": {
+          "location": "日本·川口市",
+          "experience": "5年+ 运营经验"
+        },
+        "stats": {
+          "experience": "运营经验",
+          "tools": "开发工具",
+          "automation": "节省时间",
+          "projects": "完成项目",
+          "years": "年",
+          "hours": "小时"
+        },
+        "skills": {
+          "title": "专业技能",
+          "description": "结合丰富的运营经验和技术开发能力，为跨境电商卖家提供全方位解决方案",
+          "amazon": {
+            "title": "亚马逊运营",
+            "ppc": "PPC广告优化",
+            "seo": "关键词SEO",
+            "analytics": "数据分析",
+            "automation": "运营自动化"
+          }
+        },
+        "projects": {
+          "title": "核心功能",
+          "description": "集成多种实用工具，帮助您提升运营效率",
+          "explore": "立即体验",
+          "dashboard": {
+            "title": "数据分析仪表板",
+            "description": "Amazon广告数据分析、关键词排名监控、ACOS优化建议"
+          },
+          "tools": {
+            "title": "自动化工具集",
+            "description": "关键词生成、图片处理、数据清洗等实用工具"
+          },
+          "ai": {
+            "title": "AI智能助手",
+            "description": "基于RAG的知识问答系统，提供专业运营建议"
+          }
+        },
+        "cta": {
+          "title": "准备好提升您的运营效率了吗？",
+          "description": "立即体验我们的专业工具，让数据驱动您的业务增长",
+          "button": "开始使用"
+        }
+      },
+      "dashboard": {
+        "title": "Amazon数据分析",
+        "subtitle": "专业的广告数据分析和优化工具",
+        "features": {
+          "ranking": {
+            "title": "关键词排名查询",
+            "description": "实时监控产品关键词自然排名位置"
+          },
+          "acos": {
+            "title": "高ACOS筛选",
+            "description": "快速识别和优化高广告成本比的关键词"
+          },
+          "optimizer": {
+            "title": "广告优化器",
+            "description": "基于数据分析提供广告优化建议"
+          }
+        }
+      },
+      "tools": {
+        "title": "自动化工具集",
+        "subtitle": "提升工作效率的实用工具",
+        "features": {
+          "keywords": {
+            "title": "关键词生成器",
+            "description": "智能生成相关关键词和长尾词"
+          },
+          "images": {
+            "title": "图片处理工具",
+            "description": "批量压缩和调整产品图片尺寸"
+          },
+          "data": {
+            "title": "数据清洗器",
+            "description": "快速处理和转换各种数据格式"
+          }
+        }
+      },
+      "ai": {
+        "title": "AI智能助手",
+        "subtitle": "基于专业知识库的智能问答系统",
+        "placeholder": "请输入您的问题...",
+        "send": "发送",
+        "freeTrials": "免费体验次数",
+        "remaining": "剩余"
+      },
+      "resources": {
+        "title": "资源库",
+        "subtitle": "免费的运营资料和模板下载",
+        "categories": {
+          "templates": "Excel模板",
+          "guides": "运营指南",
+          "tools": "工具导航"
+        }
+      },
+      "blog": {
+        "title": "运营博客",
+        "subtitle": "分享最新的运营技巧和行业洞察"
+      },
+      "common": {
+        "loading": "加载中...",
+        "error": "出错了",
+        "retry": "重试",
+        "download": "下载",
+        "login": "登录后使用",
+        "loginRequired": "此功能需要登录使用",
+        "upgradeRequired": "升级会员以继续使用",
+        "freeTrialExpired": "免费试用次数已用完"
+      }
+    },
+    "en": {
+      "site": {
+        "title": "Amazon Operations Assistant",
+        "description": "Professional cross-border e-commerce operations tool platform"
+      },
+      "nav": {
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "tools": "Tools",
+        "aiAssistant": "AI Assistant",
+        "resources": "Resources",
+        "blog": "Blog"
+      },
+      "auth": {
+        "login": {
+          "title": "Login",
+          "subtitle": "Welcome back",
+          "submit": "Login",
+          "success": "Login successful!",
+          "switchText": "Don't have an account?",
+          "switchButton": "Sign up"
+        },
+        "register": {
+          "title": "Sign Up",
+          "subtitle": "Create your account",
+          "submit": "Sign Up",
+          "success": "Registration successful!",
+          "switchText": "Already have an account?",
+          "switchButton": "Login"
+        },
+        "fields": {
+          "email": "Email",
+          "password": "Password",
+          "name": "Name",
+          "confirmPassword": "Confirm Password"
+        },
+        "placeholders": {
+          "email": "Enter your email",
+          "password": "Enter your password",
+          "name": "Enter your name",
+          "confirmPassword": "Confirm your password"
+        },
+        "errors": {
+          "emailRequired": "Email is required",
+          "
