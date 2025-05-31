@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "dashboard": "ダッシュボード",
+    "tools": "ツール",
+    "ai": "AIアシスタント",
+    "resources": "リソース",
+    "blog": "ブログ",
+    "auth": "ログイン",
+    "language": "言語"
+  },
+  "home": {
+    "hero": {
+      "title": "プロフェッショナルなAmazon運営プラットフォーム",
+      "subtitle": "データ分析、自動化ツール、AIアシスタントなど、包括的な越境ECソリューション",
+      "cta": "始める",
+      "learnMore": "詳細を見る"
+    },
+    "about": {
+      "title": "私について",
+      "description": "経験豊富な越境EC運営エキスパート。Amazon プラットフォームの運営最適化、データ分析、自動化ツール開発に特化。数年の実務経験を持ち、セラーの運営効率向上に貢献。",
+      "skills": "コアスキル",
+      "experience": "プロジェクト経験"
+    },
+    "features": {
+      "title": "コア機能",
+      "subtitle": "越境ECセラー向けの専門的な運営ツールとサービス",
+      "dataAnalysis": {
+        "title": "データ分析",
+        "description": "キーワードランキング監視、広告ACOS最適化、売上データ分析"
+      },
+      "toolsCollection": {
+        "title": "ツールコレクション",
+        "description": "キーワード生成、画像処理、データクリーニングなど実用的なツール"
+      },
+      "aiAssistant": {
+        "title": "AIアシスタント",
+        "description": "インテリジェントQ&A、運営提案、知識検索などのAI機能"
+      },
+      "resources": {
+        "title": "リソースセンター",
+        "description": "運営テンプレート、ツールナビゲーション、経験共有など高品質なリソース"
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Amazonデータ分析",
+    "subtitle": "プロフェッショナルな運営データ分析ツール",
+    "keywordRanking": {
+      "title": "キーワードランキング照会",
+      "description": "Amazon検索結果での商品キーワードの自然ランキングを監視",
+      "runTool": "ツール実行"
+    },
+    "acosFilter": {
+      "title": "高ACOSフィルター",
+      "description": "広告コスト対売上比の高いキーワードを迅速に特定",
+      "runTool": "ツール実行"
+    },
+    "adOptimizer": {
+      "title": "広告データオプティマイザー",
+      "description": "広告データを分析し、最適化提案を提供",
+      "runTool": "ツール実行"
+    }
+  },
+  "tools": {
+    "title": "ツールコレクション",
+    "subtitle": "実用的な運営ツールコレクション",
+    "keywordGenerator": {
+      "title": "キーワードジェネレーター",
+      "description": "シードキーワードに基づいてロングテールキーワードを生成"
+    },
+    "imageProcessor": {
+      "title": "画像処理ツール",
+      "description": "画像圧縮、リサイズ、フォーマット変換"
+    },
+    "dataConverter": {
+      "title": "データコンバーター",
+      "description": "データクリーニング、フォーマット変換、バッチ処理"
+    }
+  },
+  "ai": {
+    "title": "AIアシスタント",
+    "subtitle": "インテリジェントな運営アシスタントがあなたの質問にお答えします",
+    "placeholder": "質問を入力してください...",
+    "send": "送信",
+    "freeTrials": "無料体験回数",
+    "remaining": "残り"
+  },
+  "resources": {
+    "title": "リソースセンター",
+    "subtitle": "高品質な運営リソースとテンプレートダウンロード",
+    "templates": {
+      "title": "運営テンプレート",
+      "fbaCalculator": "FBA手数料計算表",
+      "adPlan": "広告プランテンプレート",
+      "competitorAnalysis": "競合分析テンプレート"
+    },
+    "navigation": {
+      "title": "ツールナビゲーション",
+      "description": "厳選された越境ECツールウェブサイト"
+    },
+    "guides": {
+      "title": "運営ガイド",
+      "description": "詳細な運営経験とコツの共有"
+    }
+  },
+  "blog": {
+    "title": "ブログ",
+    "subtitle": "Amazon運営の経験とコツを共有",
+    "readMore": "続きを読む",
+    "categories": {
+      "advertising": "広告最適化",
+      "seo": "SEOのコツ",
+      "automation": "自動化ツール",
+      "analytics": "データ分析"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "ログイン",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "submit": "ログイン",
+      "noAccount": "アカウントをお持ちでないですか？",
+      "signUp": "サインアップ"
+    },
+    "register": {
+      "title": "登録",
+      "name": "名前",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "confirmPassword": "パスワード確認",
+      "submit": "登録",
+      "hasAccount": "すでにアカウントをお持ちですか？",
+      "signIn": "サインイン"
+    }
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "success": "成功",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "close": "閉じる",
+    "save": "保存",
+    "edit": "編集",
+    "delete": "削除",
+    "download": "ダウンロード",
+    "upload": "アップロード",
+    "search": "検索",
+    "filter": "フィルター",
+    "sort": "ソート",
+    "export": "エクスポート",
+    "import": "インポート",
+    "loginRequired": "この機能を使用するにはログインが必要です",
+    "loginToAccess": "アクセスするにはログイン"
+  },
+  "footer": {
+    "description": "プロフェッショナルなAmazon運営プラットフォーム",
+    "quickLinks": "クイックリンク",
+    "contact": "お問い合わせ",
+    "followUs": "フォローする",
+    "copyright": "© 2025 Amazon運営プラットフォーム. 全権利保有."
+  }
+}

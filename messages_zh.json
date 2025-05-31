@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "首页",
+    "dashboard": "数据分析",
+    "tools": "工具集合",
+    "ai": "AI 助手",
+    "resources": "资源中心",
+    "blog": "博客",
+    "auth": "登录",
+    "language": "语言"
+  },
+  "home": {
+    "hero": {
+      "title": "专业的亚马逊运营工具平台",
+      "subtitle": "提供数据分析、自动化工具、AI助手等全方位跨境电商解决方案",
+      "cta": "开始使用",
+      "learnMore": "了解更多"
+    },
+    "about": {
+      "title": "关于我",
+      "description": "资深跨境电商运营专家，专注亚马逊平台运营优化、数据分析和自动化工具开发。拥有多年实战经验，致力于帮助卖家提升运营效率。",
+      "skills": "核心技能",
+      "experience": "项目经验"
+    },
+    "features": {
+      "title": "核心功能",
+      "subtitle": "为跨境电商卖家提供专业的运营工具和服务",
+      "dataAnalysis": {
+        "title": "数据分析",
+        "description": "关键词排名监控、广告ACOS优化、销售数据分析"
+      },
+      "toolsCollection": {
+        "title": "工具集合",
+        "description": "关键词生成、图片处理、数据清洗等实用工具"
+      },
+      "aiAssistant": {
+        "title": "AI 助手",
+        "description": "智能问答、运营建议、知识检索等AI功能"
+      },
+      "resources": {
+        "title": "资源中心",
+        "description": "运营模板、工具导航、经验分享等优质资源"
+      }
+    }
+  },
+  "dashboard": {
+    "title": "亚马逊数据分析",
+    "subtitle": "专业的运营数据分析工具",
+    "keywordRanking": {
+      "title": "关键词排名查询",
+      "description": "监控产品关键词在亚马逊搜索结果中的自然排名",
+      "runTool": "运行工具"
+    },
+    "acosFilter": {
+      "title": "高ACOS筛选",
+      "description": "快速识别高广告成本占销售额比例的关键词",
+      "runTool": "运行工具"
+    },
+    "adOptimizer": {
+      "title": "广告数据优化",
+      "description": "分析广告数据，提供优化建议",
+      "runTool": "运行工具"
+    }
+  },
+  "tools": {
+    "title": "工具集合",
+    "subtitle": "实用的运营工具集合",
+    "keywordGenerator": {
+      "title": "关键词生成器",
+      "description": "基于种子关键词生成长尾关键词"
+    },
+    "imageProcessor": {
+      "title": "图片处理工具",
+      "description": "图片压缩、尺寸调整、格式转换"
+    },
+    "dataConverter": {
+      "title": "数据转换器",
+      "description": "数据清洗、格式转换、批量处理"
+    }
+  },
+  "ai": {
+    "title": "AI 助手",
+    "subtitle": "智能运营助手，为您答疑解惑",
+    "placeholder": "输入您的问题...",
+    "send": "发送",
+    "freeTrials": "免费体验次数",
+    "remaining": "剩余"
+  },
+  "resources": {
+    "title": "资源中心",
+    "subtitle": "优质运营资源和模板下载",
+    "templates": {
+      "title": "运营模板",
+      "fbaCalculator": "FBA费用计算表",
+      "adPlan": "广告投放计划表",
+      "competitorAnalysis": "竞品分析模板"
+    },
+    "navigation": {
+      "title": "工具导航",
+      "description": "精选跨境电商常用工具网站"
+    },
+    "guides": {
+      "title": "运营指南",
+      "description": "详细的运营经验和技巧分享"
+    }
+  },
+  "blog": {
+    "title": "博客",
+    "subtitle": "分享亚马逊运营经验和技巧",
+    "readMore": "阅读更多",
+    "categories": {
+      "advertising": "广告优化",
+      "seo": "SEO技巧",
+      "automation": "自动化工具",
+      "analytics": "数据分析"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "登录",
+      "email": "邮箱",
+      "password": "密码",
+      "submit": "登录",
+      "noAccount": "没有账户？",
+      "signUp": "注册"
+    },
+    "register": {
+      "title": "注册",
+      "name": "姓名",
+      "email": "邮箱",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "submit": "注册",
+      "hasAccount": "已有账户？",
+      "signIn": "登录"
+    }
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出错了",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "close": "关闭",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "download": "下载",
+    "upload": "上传",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "export": "导出",
+    "import": "导入",
+    "loginRequired": "需要登录才能使用此功能",
+    "loginToAccess": "登录以访问"
+  },
+  "footer": {
+    "description": "专业的亚马逊运营工具平台",
+    "quickLinks": "快速链接",
+    "contact": "联系方式",
+    "followUs": "关注我们",
+    "copyright": "© 2025 亚马逊运营平台. 保留所有权利."
+  }
+}

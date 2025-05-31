@@ -1,0 +1,165 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "tools": "Tools",
+    "ai": "AI Assistant",
+    "resources": "Resources",
+    "blog": "Blog",
+    "auth": "Login",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional Amazon Operation Platform",
+      "subtitle": "Comprehensive cross-border e-commerce solutions including data analysis, automation tools, and AI assistants",
+      "cta": "Get Started",
+      "learnMore": "Learn More"
+    },
+    "about": {
+      "title": "About Me",
+      "description": "Experienced cross-border e-commerce operation expert, focusing on Amazon platform operation optimization, data analysis, and automation tool development. With years of practical experience, dedicated to helping sellers improve operational efficiency.",
+      "skills": "Core Skills",
+      "experience": "Project Experience"
+    },
+    "features": {
+      "title": "Core Features",
+      "subtitle": "Professional operation tools and services for cross-border e-commerce sellers",
+      "dataAnalysis": {
+        "title": "Data Analysis",
+        "description": "Keyword ranking monitoring, ad ACOS optimization, sales data analysis"
+      },
+      "toolsCollection": {
+        "title": "Tools Collection",
+        "description": "Practical tools including keyword generation, image processing, data cleaning"
+      },
+      "aiAssistant": {
+        "title": "AI Assistant",
+        "description": "Intelligent Q&A, operation suggestions, knowledge retrieval and other AI functions"
+      },
+      "resources": {
+        "title": "Resource Center",
+        "description": "High-quality resources including operation templates, tool navigation, experience sharing"
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Amazon Data Analysis",
+    "subtitle": "Professional operation data analysis tools",
+    "keywordRanking": {
+      "title": "Keyword Ranking Query",
+      "description": "Monitor product keyword organic rankings in Amazon search results",
+      "runTool": "Run Tool"
+    },
+    "acosFilter": {
+      "title": "High ACOS Filter",
+      "description": "Quickly identify keywords with high advertising cost-to-sales ratio",
+      "runTool": "Run Tool"
+    },
+    "adOptimizer": {
+      "title": "Ad Data Optimizer",
+      "description": "Analyze advertising data and provide optimization suggestions",
+      "runTool": "Run Tool"
+    }
+  },
+  "tools": {
+    "title": "Tools Collection",
+    "subtitle": "Practical operation tools collection",
+    "keywordGenerator": {
+      "title": "Keyword Generator",
+      "description": "Generate long-tail keywords based on seed keywords"
+    },
+    "imageProcessor": {
+      "title": "Image Processing Tool",
+      "description": "Image compression, resizing, format conversion"
+    },
+    "dataConverter": {
+      "title": "Data Converter", 
+      "description": "Data cleaning, format conversion, batch processing"
+    }
+  },
+  "ai": {
+    "title": "AI Assistant",
+    "subtitle": "Intelligent operation assistant to answer your questions",
+    "placeholder": "Enter your question...",
+    "send": "Send",
+    "freeTrials": "Free trial times",
+    "remaining": "remaining"
+  },
+  "resources": {
+    "title": "Resource Center",
+    "subtitle": "High-quality operation resources and template downloads",
+    "templates": {
+      "title": "Operation Templates",
+      "fbaCalculator": "FBA Fee Calculator",
+      "adPlan": "Advertising Plan Template",
+      "competitorAnalysis": "Competitor Analysis Template"
+    },
+    "navigation": {
+      "title": "Tool Navigation",
+      "description": "Selected cross-border e-commerce tool websites"
+    },
+    "guides": {
+      "title": "Operation Guides",
+      "description": "Detailed operation experience and tips sharing"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Share Amazon operation experience and tips",
+    "readMore": "Read More",
+    "categories": {
+      "advertising": "Ad Optimization",
+      "seo": "SEO Tips",
+      "automation": "Automation Tools",
+      "analytics": "Data Analysis"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign Up"
+    },
+    "register": {
+      "title": "Register",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign In"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "download": "Download",
+    "upload": "Upload",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "export": "Export",
+    "import": "Import",
+    "loginRequired": "Login required to use this feature",
+    "loginToAccess": "Login to Access"
+  },
+  "footer": {
+    "description": "Professional Amazon Operation Platform",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 Amazon Operation Platform. All rights reserved."
+  }
+}
